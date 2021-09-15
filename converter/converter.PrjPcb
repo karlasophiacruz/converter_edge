@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GOVQVHNV
 
 [Document4]
-DocumentPath=[03] - STM SCHEMATIC.SchDoc
+DocumentPath=[03] - MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -211,7 +211,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=[04] - POWER SUPPLY SCHEMATIC.SchDoc
+DocumentPath=[04] - POWER SUPPLY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -228,7 +228,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YFDTFRPB
 
 [Document12]
-DocumentPath=[05] - PERIPHERAL SCHEMATIC.SchDoc
+DocumentPath=[05] - PERIPHERALS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -245,7 +245,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EQEMTFUR
 
 [Document13]
-DocumentPath=[06] - PROTOCOL SCHEMATIC.SchDoc
+DocumentPath=[06] - PROTOCOLS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -279,28 +279,28 @@ GenerateClassCluster=0
 DocumentUniqueId=QIWPOGFT
 
 [Parameter1]
-Name=CheckedProject
-Value=Alex Batista
+Name=Website
+Value=http://edgebr.org/
 
 [Parameter2]
-Name=Company
-Value=EDGE
-
-[Parameter3]
-Name=DesignedProject
-Value=Karla Sophia
-
-[Parameter4]
-Name=TitleProject
-Value=converter
-
-[Parameter5]
 Name=VersionRevision
 Value=P1
 
+[Parameter3]
+Name=TitleProject
+Value=Data Acquisition System
+
+[Parameter4]
+Name=DesignedProject
+Value=Karla Sophia
+
+[Parameter5]
+Name=Company
+Value=EDGE
+
 [Parameter6]
-Name=Website
-Value=https://github.com/karlasophiacruz/converter_edge
+Name=CheckedProject
+Value=Alex Batista
 
 [Configuration1]
 Name=Sources
