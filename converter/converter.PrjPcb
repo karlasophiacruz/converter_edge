@@ -92,6 +92,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GOVQVHNV
 
 [Document4]
+DocumentPath=[03] - STM SCHEMATIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUFWDCSE
+
+[Document5]
 DocumentPath=converter.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=converter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXNWUCIY
 
-[Document6]
+[Document7]
 DocumentPath=converter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHCFGLAN
 
-[Document7]
+[Document8]
 DocumentPath=converter.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=converter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULGTLAGS
 
-[Document9]
+[Document10]
 DocumentPath=converter.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=[04] - POWER SUPPLY SCHEMATIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,23 +226,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFDTFRPB
-
-[Document11]
-DocumentPath=[03] - STM SCHEMATIC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XUFWDCSE
 
 [Document12]
 DocumentPath=[05] - PERIPHERAL SCHEMATIC.SchDoc
@@ -259,7 +259,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XUFWDCSE
+DocumentUniqueId=SWTUOQWP
 
 [Document14]
 DocumentPath=[07] - REVISION HISTORY.SchDoc
