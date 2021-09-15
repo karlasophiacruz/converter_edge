@@ -92,23 +92,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GOVQVHNV
 
 [Document4]
-DocumentPath=[03] - STM32 SCHEMATIC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NTYURMOH
-
-[Document5]
 DocumentPath=converter.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=converter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXNWUCIY
 
-[Document7]
+[Document6]
 DocumentPath=converter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHCFGLAN
 
-[Document8]
+[Document7]
 DocumentPath=converter.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=converter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULGTLAGS
 
-[Document10]
+[Document9]
 DocumentPath=converter.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=[04] - POWER SUPPLY SCHEMATIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TPUHOYHK
+DocumentUniqueId=YFDTFRPB
+
+[Document11]
+DocumentPath=[03] - STM SCHEMATIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUFWDCSE
 
 [Document12]
 DocumentPath=[05] - PERIPHERAL SCHEMATIC.SchDoc
@@ -245,7 +245,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EQEMTFUR
 
 [Document13]
-DocumentPath=[06] - PROTOCOLS SCHEMATIC.SchDoc
+DocumentPath=[06] - PROTOCOL SCHEMATIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -259,7 +259,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YFDTFRPB
+DocumentUniqueId=XUFWDCSE
 
 [Document14]
 DocumentPath=[07] - REVISION HISTORY.SchDoc
