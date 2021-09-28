@@ -76,6 +76,8 @@ DocumentUniqueId=TFWOCBYD
 
 [Document3]
 DocumentPath=[02] - BLOCK DIAGRAM.SchDoc
+<<<<<<< HEAD
+=======
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -93,6 +95,7 @@ DocumentUniqueId=GOVQVHNV
 
 [Document4]
 DocumentPath=[03] - MCU.SchDoc
+>>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -108,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUFWDCSE
 
-[Document5]
+[Document4]
 DocumentPath=converter.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=converter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXNWUCIY
 
-[Document7]
+[Document6]
 DocumentPath=converter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHCFGLAN
 
-[Document8]
+[Document7]
 DocumentPath=converter.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,8 +179,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document8]
+DocumentPath=converter.BomDoc
+=======
 [Document9]
 DocumentPath=converter.PcbDoc
+>>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -193,8 +201,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULGTLAGS
 
+<<<<<<< HEAD
+[Document9]
+DocumentPath=converter.PcbDoc
+=======
 [Document10]
 DocumentPath=converter.BomDoc
+>>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -210,8 +223,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document10]
+DocumentPath=[03] - CONVERTER SCHEMATIC.SchDoc
+=======
 [Document11]
 DocumentPath=[04] - POWER SUPPLY.SchDoc
+>>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -227,6 +245,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFDTFRPB
 
+<<<<<<< HEAD
+=======
 [Document12]
 DocumentPath=[05] - PERIPHERALS.SchDoc
 AnnotationEnabled=1
@@ -278,6 +298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIWPOGFT
 
+>>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 [Parameter1]
 Name=Website
 Value=http://edgebr.org/
