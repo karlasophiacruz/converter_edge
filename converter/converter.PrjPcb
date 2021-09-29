@@ -76,8 +76,6 @@ DocumentUniqueId=TFWOCBYD
 
 [Document3]
 DocumentPath=[02] - BLOCK DIAGRAM.SchDoc
-<<<<<<< HEAD
-=======
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -95,7 +93,6 @@ DocumentUniqueId=GOVQVHNV
 
 [Document4]
 DocumentPath=[03] - MCU.SchDoc
->>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -110,23 +107,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUFWDCSE
-
-[Document4]
-DocumentPath=converter.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Document5]
 DocumentPath=converter.PcbLib
@@ -179,35 +159,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
 [Document8]
 DocumentPath=converter.BomDoc
-=======
-[Document9]
-DocumentPath=converter.PcbDoc
->>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ULGTLAGS
-
-<<<<<<< HEAD
-[Document9]
-DocumentPath=converter.PcbDoc
-=======
-[Document10]
-DocumentPath=converter.BomDoc
->>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -223,13 +176,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
+[Document9]
+DocumentPath=converter.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ULGTLAGS
+
 [Document10]
-DocumentPath=[03] - CONVERTER SCHEMATIC.SchDoc
-=======
-[Document11]
 DocumentPath=[04] - POWER SUPPLY.SchDoc
->>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -245,9 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFDTFRPB
 
-<<<<<<< HEAD
-=======
-[Document12]
+[Document11]
 DocumentPath=[05] - PERIPHERALS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -264,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQEMTFUR
 
-[Document13]
+[Document12]
 DocumentPath=[06] - PROTOCOLS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWTUOQWP
 
-[Document14]
+[Document13]
 DocumentPath=[07] - REVISION HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -298,30 +261,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIWPOGFT
 
->>>>>>> dcb5745a12fe8c3b1e4ce13874e7c2664ae82beb
 [Parameter1]
-Name=Website
-Value=http://edgebr.org/
+Name=CheckedProject
+Value=José Gomes
 
 [Parameter2]
-Name=VersionRevision
-Value=P1
-
-[Parameter3]
-Name=TitleProject
-Value=Data Acquisition System
-
-[Parameter4]
-Name=DesignedProject
-Value=Karla Sophia
-
-[Parameter5]
 Name=Company
 Value=EDGE
 
+[Parameter3]
+Name=DesignedProject
+Value=Karla Sophia
+
+[Parameter4]
+Name=TitleProject
+Value=Data Acquisition System
+
+[Parameter5]
+Name=VersionRevision
+Value=P1
+
 [Parameter6]
-Name=CheckedProject
-Value=José Gomes
+Name=Website
+Value=http://edgebr.org/
 
 [Configuration1]
 Name=Sources
